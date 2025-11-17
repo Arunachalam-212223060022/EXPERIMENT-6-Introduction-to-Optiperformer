@@ -90,9 +90,10 @@ The system includes:
 
 <img width="625" height="358" alt="image" src="https://github.com/user-attachments/assets/61f92b36-b5ec-43cd-9934-c173d1e178f5" />
 
-<img width="354" height="623" alt="image" src="https://github.com/user-attachments/assets/8ca5c7f7-8ace-47f1-9a42-faa7ca59df42" />
+<img width="624" height="354" alt="image" src="https://github.com/user-attachments/assets/f881521a-34a4-4c3d-8ec7-f81bedf09917" />
 
-<img width="353" height="621" alt="image" src="https://github.com/user-attachments/assets/6c64378a-95f3-4322-a2ac-48ace783698a" />
+<img width="622" height="353" alt="image" src="https://github.com/user-attachments/assets/44f853ae-5882-4be5-b8f2-572872a1d9ea" />
+
 
 
 ---
